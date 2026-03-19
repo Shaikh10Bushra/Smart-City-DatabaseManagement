@@ -29,4 +29,4 @@ A robust Relational Database Management System (RDBMS) designed to manage urban 
 
 ## **👨‍💻 Developer**
 
-Bushra Shaikh - Electronics and Computer Engineering Student [LinkedIn Profile Link]
+Bushra Shaikh - Electronics and Computer Engineering Student [ https://www.linkedin.com/in/bushra-shaikh-18b43a362 ]
